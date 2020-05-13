@@ -1,0 +1,4 @@
+In this assignment we are experimenting with the Apache Spark tool for processing big data analytics.
+More specifically, we are focusing on how to perform data exploration using Spark on a
+very large text file. Our task is about counting the frequency of each word in combination with
+the frequency of their preceding word.

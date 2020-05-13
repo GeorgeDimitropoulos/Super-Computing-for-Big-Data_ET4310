@@ -1,0 +1,2 @@
+The objective of this assignment is to process the entire GDelt 2 dataset (i.e. all segments) with 20
+c4.8xlarge core nodes, in under half an hour, using our solution from lab assignment 1.

@@ -1,0 +1,2 @@
+In this assignment we had to create a histogram that presents the top 100 discussed topics during
+the last hour, based on the GDelt data.
